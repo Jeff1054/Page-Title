@@ -1,0 +1,23 @@
+.g-herbo {
+    text-align: center;
+    color:red;
+    font-size:30px;
+}
+button {
+    color:black;
+    width:200px;
+    height:50px;
+    margin-bottom:20px;
+    background-color:Red;
+}
+.donate {
+    text-align:center;
+}
+.pres-photos {
+    display:flex;
+    justify-content: space-around;
+}
+img {
+    width:200px;
+    height:300px;
+}
